@@ -1,2 +1,2 @@
-#!/bin/baih
+#!/bin/bash
 tail /etc/passwd
